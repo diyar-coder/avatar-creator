@@ -1,3 +1,3 @@
 # avatar-creator
 
-[avatar creator](avator-creator.gif)
+![avatar creator](avator-creator.gif)
