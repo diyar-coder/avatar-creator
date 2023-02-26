@@ -4,5 +4,4 @@ An application that allows you to create an outfit for an avatar. You can make t
 
 ---
 
-
-![avatar creator](avator-creator.gif)
+![avatar creator](avatar-creator.gif)
